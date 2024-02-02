@@ -4,3 +4,5 @@
 ### git add
 ### git add . 
 **adiciona todos os arquivos para a esteira de commit**
+
+### Escrevendo uns negócios aqui
